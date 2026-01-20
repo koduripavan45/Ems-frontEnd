@@ -12,4 +12,8 @@ const FooterComponent = () => {
   );
 };
 
+{/* This is a comment inside JSX
+enter the git
+git practice
+GIT hub*/}
 export default FooterComponent;
