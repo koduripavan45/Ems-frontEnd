@@ -5,7 +5,9 @@ import {
   updateEmployee,
 } from "../services/EmployeeService";
 import { useNavigate, useParams } from "react-router-dom";
-
+{/* This is a comment inside JSX
+react project
+git modules*/}
 const EmployeeComponent = () => {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
